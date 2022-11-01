@@ -1,0 +1,9 @@
+#bb_form .form-group { margin-bottom: 16px; }
+#bb_form .form-group label { cursor: pointer; display: inline-block; margin-bottom: 8px; font-weight: 600; font-size: 14px; line-height: 16px; }
+#bb_form .form-group .form-control { border-radius: 3px; line-height: 20px; font-size: 14px; padding-top: 8px; padding-bottom: 8px; padding-left: 12px; padding-right: 12px; font-weight: 400; border-width: 2px; border-color: #CDD7E2; display: block; width: 100%; color: #495057; background-image: none; background-clip: padding-box; border: 1px solid rgba(0,0,0,.15); transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s; overflow: visible; margin: 0; touch-action: manipulation; }
+#bb_form .form-group .form-control:focus { border-color: #3597DE; }
+#bb_form .form-group .btn { display: inline-block; white-space: nowrap; vertical-align: middle; user-select: none; min-width: 64px; background: #35BAFF; border: 1px solid #35BAFF; border-radius: 3px; cursor: pointer; color: #fff; font-size: 14px; line-height: 1.43; padding-top: 6px; padding-bottom: 6px; padding-left: 16px; padding-right: 16px; outline: none; text-align: center; text-decoration: none; -webkit-transition: 0s; transition: 0s; }
+#bb_form .form-group .invalid-feedback { font-size: 12px; color: #dc3545; margin-top: 4px; }
+#bb_form #alert { position: relative; padding: 12px 20px; margin-bottom: 16px; border: 1px solid transparent; border-radius: 3px; }
+#bb_form #alert.success { color: #155724; background-color: #d4edda; border-color: #c3e6cb; }
+#bb_form #alert.error { color: #721c24; background-color: #f8d7da; border-color: #f5c6cb; }

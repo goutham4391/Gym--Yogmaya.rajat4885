@@ -1,0 +1,86 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 18:44:27 at https://yogamayanewyork.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://yogamayanewyork.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Day6\Web30\Site30" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:44:49	Error: 	"Forbidden" (403) at link https://yogamayanewyork.com/xmlrpc.php (from https://yogamayanewyork.com/)
+18:46:07	Error: 	"Bad Request" (400) at link https://yogamayanewyork.com/wp-admin/admin-ajax.php (from https://yogamayanewyork.com/)
+18:46:07	Error: 	"Not Found" (404) at link https://yogamayanewyork.com/wp-content/plugins/instagram-feed/img/small-logo.png (from https://yogamayanewyork.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css)
+18:46:07	Error: 	"Not Found" (404) at link https://yogamayanewyork.com/c (from https://connect.facebook.net/en_US/fbevents.js)
+18:46:07	Error: 	"Not Found" (404) at link https://yogamayanewyork.com/b (from https://connect.facebook.net/en_US/fbevents.js)
+18:46:07	Error: 	"Not Found" (404) at link https://yogamayanewyork.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+18:46:07	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=16
+18:46:07	Warning: 	File has moved from https://yogamayanewyork.com/?p=16 to https://yogamayanewyork.com/about-us/
+18:46:50	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=1383
+18:46:50	Warning: 	File has moved from https://yogamayanewyork.com/?p=1383 to https://yogamayanewyork.com/yoga-teacher-training-nyc/
+18:46:58	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=8
+18:46:58	Warning: 	File has moved from https://yogamayanewyork.com/?p=8 to https://yogamayanewyork.com/events/
+18:47:03	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=7
+18:47:03	Warning: 	File has moved from https://yogamayanewyork.com/?p=7 to https://yogamayanewyork.com/classes/buy-classes-chelsea-nyc/
+18:47:03	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=4
+18:47:03	Warning: 	File has moved from https://yogamayanewyork.com/?p=4 to https://yogamayanewyork.com/classes/
+18:47:03	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=1073
+18:47:03	Warning: 	File has moved from https://yogamayanewyork.com/?p=1073 to https://yogamayanewyork.com/blog/prenatal-yoga-and-the-power-of-imagination/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=22
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=22 to https://yogamayanewyork.com/store/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3353
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=3353 to https://yogamayanewyork.com/terms-conditions/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=100
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=100 to https://yogamayanewyork.com/blog/teachers/bryn-chrisman/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=106
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=106 to https://yogamayanewyork.com/blog/teachers/danielle-harbord/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=937
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=937 to https://yogamayanewyork.com/blog/teachers/amanda-mcdonald/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=109
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=109 to https://yogamayanewyork.com/blog/teachers/julie-pasqual/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=960
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=960 to https://yogamayanewyork.com/blog/teachers/alexandra-paddock/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=1132
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=1132 to https://yogamayanewyork.com/blog/teachers/rachel-fedde/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3555
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=3555 to https://yogamayanewyork.com/blog/teachers/amanda-gates/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=2199
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=2199 to https://yogamayanewyork.com/blog/teachers/gina-benson/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=2554
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=2554 to https://yogamayanewyork.com/blog/teachers/jeff-percacciante/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=2211
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=2211 to https://yogamayanewyork.com/blog/teachers/lori-nathanson/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3171
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=3171 to https://yogamayanewyork.com/blog/teachers/3171/
+18:47:37	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3545
+18:47:37	Warning: 	File has moved from https://yogamayanewyork.com/?p=3545 to https://yogamayanewyork.com/blog/teachers/phillip-pettiford/
+18:47:38	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3562
+18:47:38	Warning: 	File has moved from https://yogamayanewyork.com/?p=3562 to https://yogamayanewyork.com/blog/teachers/emily-rawlings/
+18:47:38	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3549
+18:47:38	Warning: 	File has moved from https://yogamayanewyork.com/?p=3549 to https://yogamayanewyork.com/blog/teachers/jamie-wilhelm-schlef/
+18:47:38	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3586
+18:47:38	Warning: 	File has moved from https://yogamayanewyork.com/?p=3586 to https://yogamayanewyork.com/blog/teachers/patrick-millard/
+18:47:38	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=1385
+18:47:38	Warning: 	File has moved from https://yogamayanewyork.com/?p=1385 to https://yogamayanewyork.com/yoga-teacher-training-nyc/200-hour-teacher-training/
+18:47:38	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=1387
+18:47:38	Warning: 	File has moved from https://yogamayanewyork.com/?p=1387 to https://yogamayanewyork.com/yoga-teacher-training-nyc/300-hour-teacher-training/
+18:47:38	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3585
+18:47:38	Warning: 	File has moved from https://yogamayanewyork.com/?p=3585 to https://yogamayanewyork.com/blog/events/sound-ceremony/
+18:47:38	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=3478
+18:47:38	Warning: 	File has moved from https://yogamayanewyork.com/?p=3478 to https://yogamayanewyork.com/blog/events/journey-to-india/
+18:47:53	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=980
+18:47:53	Warning: 	File has moved from https://yogamayanewyork.com/?p=980 to https://yogamayanewyork.com/blog/how-long-does-yoga-take-to-see-results/
+18:47:53	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=800
+18:47:53	Warning: 	File has moved from https://yogamayanewyork.com/?p=800 to https://yogamayanewyork.com/blog/learning-to-express-gratitude-through-yoga/
+18:47:53	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=785
+18:47:53	Warning: 	File has moved from https://yogamayanewyork.com/?p=785 to https://yogamayanewyork.com/blog/holiday-schedule/
+18:47:53	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=719
+18:47:53	Warning: 	File has moved from https://yogamayanewyork.com/?p=719 to https://yogamayanewyork.com/blog/the-art-of-finding-balance-in-yoga/
+18:47:54	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=702
+18:47:54	Warning: 	File has moved from https://yogamayanewyork.com/?p=702 to https://yogamayanewyork.com/blog/seva-selfless-service-at-annual-bhakti-immersion-weekend/
+18:47:54	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=685
+18:47:54	Warning: 	File has moved from https://yogamayanewyork.com/?p=685 to https://yogamayanewyork.com/blog/a-commitment-to-yoga-200-hour-teacher-training-graduates/
+18:47:54	Warning: 	Moved Permanently for https://yogamayanewyork.com/?p=291
+18:47:54	Warning: 	File has moved from https://yogamayanewyork.com/?p=291 to https://yogamayanewyork.com/blog/my-yoga-transformation-from-teacher-training-classes/
+18:47:54	Error: 	"Not Found" (404) at link https://yogamayanewyork.com/wp-content/uploads/2016/06/1929479_10921219681_8935_n-300x237.jpg (from https://yogamayanewyork.com/blog/my-yoga-transformation-from-teacher-training-classes/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 31 seconds : 410 links scanned, 368 files written (34916709 bytes overall) [27491843 bytes received at 130293 bytes/sec], 9844618 bytes transferred using HTTP compression in 264 files, ratio 20%, 20.7 requests per connection
+(7 errors, 68 warnings, 0 messages)
